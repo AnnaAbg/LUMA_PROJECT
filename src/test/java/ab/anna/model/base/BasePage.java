@@ -1,7 +1,7 @@
-package dmi.ju.model.base;
+package ab.anna.model.base;
 
-import dmi.ju.model.SearchResultsPage;
-import dmi.ju.runner.TestUtils;
+import ab.anna.model.SearchResultsPage;
+import ab.anna.runner.TestUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

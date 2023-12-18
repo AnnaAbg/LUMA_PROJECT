@@ -1,6 +1,6 @@
-package dmi.ju.runner;
+package ab.anna.runner;
 
-import dmi.ju.model.base.BaseModel;
+import ab.anna.model.base.BaseModel;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;

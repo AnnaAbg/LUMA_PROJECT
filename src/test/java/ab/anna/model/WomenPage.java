@@ -1,6 +1,6 @@
-package dmi.ju.model;
+package ab.anna.model;
 
-import dmi.ju.model.base.BasePage;
+import ab.anna.model.base.BasePage;
 import org.openqa.selenium.WebDriver;
 
 public class WomenPage extends BasePage<WomenPage> {

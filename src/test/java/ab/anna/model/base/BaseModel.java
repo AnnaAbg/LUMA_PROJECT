@@ -1,4 +1,4 @@
-package dmi.ju.model.base;
+package ab.anna.model.base;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;

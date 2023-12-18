@@ -1,4 +1,4 @@
-package dmi.ju.runner;
+package ab.anna.runner;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;

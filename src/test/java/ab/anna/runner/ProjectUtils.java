@@ -1,4 +1,4 @@
-package dmi.ju.runner;
+package ab.anna.runner;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

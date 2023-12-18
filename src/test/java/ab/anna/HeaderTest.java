@@ -1,8 +1,8 @@
-package dmi.ju;
+package ab.anna;
 
-import dmi.ju.model.HomePage;
-import dmi.ju.runner.BaseTest;
-import dmi.ju.runner.TestUtils;
+import ab.anna.model.HomePage;
+import ab.anna.runner.BaseTest;
+import ab.anna.runner.TestUtils;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
